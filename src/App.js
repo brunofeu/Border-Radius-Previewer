@@ -40,9 +40,14 @@ function App() {
           <input type="text" placeholder="0" name="border-3" className="border-input" onChange={handleChange}/>
           <input type="text" placeholder="0" name="border-2" className="border-input" onChange={handleChange}/>
         </div>
-
         <input className="copy-btn" type="button" value="Copiar" onClick={handleClick}/>
       </main>
+      <footer className="footer">
+        <p>
+          {'Desenvolvido por '}
+          <a href="https://github.com/brunofeu" target="_blank" rel="noopener noreferrer">Bruno Feu</a>
+        </p>
+      </footer>
     </div>
   );
 }
