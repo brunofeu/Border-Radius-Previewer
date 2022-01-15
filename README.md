@@ -13,4 +13,14 @@ The border-radius property can have multiple values changed. Preview how the sha
 -   [x] ~User can change the 4 `border-radius` values that are applied to the box (top-left, top-right, bottom-left, bottom-right)~
 -   [x] ~User can copy the resulting CSS to the clipboard~
 
+#
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Before run the project, you need to install the dependencies:
+
+`npm install`
+
+Then in the project directory, you can run:
+
+`npm start`
