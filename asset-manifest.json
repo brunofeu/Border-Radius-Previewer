@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Border-Radius-Previewer/static/css/main.a902bed4.css",
+    "main.js": "/Border-Radius-Previewer/static/js/main.fd4632ed.js",
+    "static/js/787.768131fd.chunk.js": "/Border-Radius-Previewer/static/js/787.768131fd.chunk.js",
+    "index.html": "/Border-Radius-Previewer/index.html",
+    "main.a902bed4.css.map": "/Border-Radius-Previewer/static/css/main.a902bed4.css.map",
+    "main.fd4632ed.js.map": "/Border-Radius-Previewer/static/js/main.fd4632ed.js.map",
+    "787.768131fd.chunk.js.map": "/Border-Radius-Previewer/static/js/787.768131fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a902bed4.css",
+    "static/js/main.fd4632ed.js"
+  ]
+}
