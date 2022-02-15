@@ -24,3 +24,4 @@ Before run the project, you need to install the dependencies:
 Then in the project directory, you can run:
 
 `npm start`
+
